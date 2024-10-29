@@ -26,4 +26,5 @@
 
 # Where am I deployed?
 
-https://deploy-this-repo-chelseaoh-git-main-chelseas-projects-80518c6c.vercel.app/
+http://deploy-this-repo-chelseaoh.vercel.app/
+
